@@ -1,0 +1,75 @@
+
+
+body{
+	color: #333;
+}
+
+/* Header Top css*/
+.container-fluid{
+	background-color: #c2c6c5;
+}
+.header-top{
+	margin:0;
+}
+.header-top ul{}
+.header-top ul li{
+	border-right: 2px solid black;
+	
+}
+
+.header-top ul li:last-child{
+	border-right:none;
+}
+.header-top ul li a{
+	color:black;
+	margin-right: 0px;
+	padding:8px;
+	font-size: 11px;
+	
+	
+}
+
+.header-top ul li a:hover{
+	color:red;
+	text-decoration: underline;
+}
+/* start Style middle header*/
+.midile-header{
+	list-style-type: none;
+}
+
+.BagImage{
+	font-size: 25px;
+	color:brown;
+	margin-right: 5px;
+
+}
+
+
+.FormInput{
+	border:none;
+	
+}
+.Form{
+	border-bottom: 1px solid black;
+}
+.SearchButton{
+	font-size: 20px;
+
+}
+
+/* end Style middle header*/
+
+/* Style Main Menu*/
+.MainMenu ul li a{
+	color:black;
+	padding-right: 10px;
+}
+
+
+/* End Main Menu*/
+
+.img1{
+	background-color: red;
+	 height:500px;
+}
